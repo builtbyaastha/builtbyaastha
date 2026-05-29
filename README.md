@@ -1,11 +1,12 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&pause=4000&color=C77DFF&center=true&vCenter=true&width=800&height=90&lines=Aastha+Sinha" />
 
 <br>
 
-# Hi, I'm Aastha Sinha 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=E0AAFF&center=true&vCenter=true&width=900&lines=Machine+Learning;Deep+Learning;Generative+AI;AI+Agents;MLOps" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=Building+AI+Systems;Developing+LLMs+and+AI+Agents;Exploring+Deep+Learning+Research;Learning+MLOps+and+Deployment" />
+</div>
 
 ### Machine Learning | Deep Learning | Generative AI | AI Agents | MLOps
 
