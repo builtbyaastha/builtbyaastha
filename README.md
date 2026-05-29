@@ -1,25 +1,12 @@
 <div align="center">
 
-<svg width="100%" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0f0c29"/>
-      <stop offset="50%" style="stop-color:#302b63"/>
-      <stop offset="100%" style="stop-color:#24243e"/>
-    </linearGradient>
-  </defs>
-  <rect width="900" height="200" fill="url(#bg)"/>
-  <path d="M0,160 C150,100 300,180 450,140 C600,100 750,160 900,130 L900,200 L0,200 Z" fill="#1a1535" opacity="0.6"/>
-  <text x="50%" y="95" font-family="Georgia, serif" font-size="48" font-weight="bold" fill="#e0aaff" text-anchor="middle" letter-spacing="2">Aastha Sinha</text>
-  <text x="50%" y="135" font-family="monospace" font-size="15" fill="#c77dff" text-anchor="middle" letter-spacing="1">Student at NSUT · AI &amp; ML Enthusiast · Builder</text>
-</svg>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aastha%20Sinha&fontSize=60&fontColor=e0aaff&fontAlignY=38&desc=Student%20at%20NSUT%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Builder&descAlignY=58&descColor=c77dff&animation=fadeIn&descSize=18" />
 
-<!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=Building+AI+Agents+%26+Agentic+Systems;Implementing+research+papers+from+scratch;LLMs+%7C+Deep+Learning+%7C+NLP+%7C+MLOps;Solving+real+problems+with+AI" alt="Typing SVG" /></a>
 
-<br/>
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aastha-sinha-1810rp)
 
 </div>
 
@@ -62,7 +49,7 @@ me.say_hi()
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Data%20Visualization-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-8E44AD?style=for-the-badge&logo=databricks&logoColor=white)
 ![EDA](https://img.shields.io/badge/EDA-2ECC71?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-E74C3C?style=for-the-badge&logo=testcafe&logoColor=white)
@@ -72,16 +59,16 @@ me.say_hi()
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-5C6BC0?style=for-the-badge&logo=nlp&logoColor=white)
-![CNNs](https://img.shields.io/badge/CNNs-0288D1?style=for-the-badge&logo=layers&logoColor=white)
-![RNNs / LSTMs / GRUs](https://img.shields.io/badge/RNNs%20%7C%20LSTMs%20%7C%20GRUs-7B1FA2?style=for-the-badge&logo=buffer&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-5C6BC0?style=for-the-badge&logo=spacy&logoColor=white)
+![CNNs](https://img.shields.io/badge/CNNs-0288D1?style=for-the-badge&logo=opencv&logoColor=white)
+![RNNs LSTMs GRUs](https://img.shields.io/badge/RNNs%20%7C%20LSTMs%20%7C%20GRUs-7B1FA2?style=for-the-badge&logo=buffer&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers%20%26%20Attention-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
 
 ### Generative AI & LLM Engineering
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-4A90D9?style=for-the-badge&logo=graphql&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG%20Systems-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![RAG Systems](https://img.shields.io/badge/RAG%20Systems-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-6C3483?style=for-the-badge&logo=probot&logoColor=white)
 ![Fine-Tuning](https://img.shields.io/badge/Fine--Tuning-C0392B?style=for-the-badge&logo=buffer&logoColor=white)
 
@@ -133,15 +120,15 @@ A personalized movie recommendation system built as a Kaggle notebook. Computes 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   Artificial Intelligence        Machine Learning               │
-│   Deep Learning                  LLM Systems & Engineering      │
-│   AI Agents & Agentic Systems    Paper Implementations          │
-│   MLOps                          NLP & Generative AI            │
-│   Time Series Forecasting        Problem Solving                │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────┐
+│                                                                      │
+│   Artificial Intelligence        Machine Learning                    │
+│   Deep Learning                  LLM Systems & Engineering           │
+│   AI Agents & Agentic Systems    Paper Implementations               │
+│   MLOps                          NLP & Generative AI                 │
+│   Time Series Forecasting        Problem Solving                     │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -149,15 +136,5 @@ A personalized movie recommendation system built as a Kaggle notebook. Computes 
 ---
 
 <div align="center">
-<svg width="100%" height="100" viewBox="0 0 900 100" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="fg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#24243e"/>
-      <stop offset="50%" style="stop-color:#302b63"/>
-      <stop offset="100%" style="stop-color:#0f0c29"/>
-    </linearGradient>
-  </defs>
-  <rect width="900" height="100" fill="url(#fg)"/>
-  <path d="M0,40 C200,90 400,10 600,60 C750,90 850,30 900,50 L900,0 L0,0 Z" fill="#1a1535" opacity="0.5"/>
-</svg>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 </div>
