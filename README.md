@@ -1,7 +1,18 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aastha+Sinha&fontSize=60&fontColor=e0aaff&fontAlignY=38&desc=Student+at+NSUT+%7C+AI+%26+ML+Enthusiast+%7C+Builder&descAlignY=58&descColor=c77dff&animation=fadeIn" />
+<svg width="100%" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#24243e"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="200" fill="url(#bg)"/>
+  <path d="M0,160 C150,100 300,180 450,140 C600,100 750,160 900,130 L900,200 L0,200 Z" fill="#1a1535" opacity="0.6"/>
+  <text x="50%" y="95" font-family="Georgia, serif" font-size="48" font-weight="bold" fill="#e0aaff" text-anchor="middle" letter-spacing="2">Aastha Sinha</text>
+  <text x="50%" y="135" font-family="monospace" font-size="15" fill="#c77dff" text-anchor="middle" letter-spacing="1">Student at NSUT · AI &amp; ML Enthusiast · Builder</text>
+</svg>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=Building+AI+Agents+%26+Agentic+Systems;Implementing+research+papers+from+scratch;LLMs+%7C+Deep+Learning+%7C+NLP+%7C+MLOps;Solving+real+problems+with+AI" alt="Typing SVG" /></a>
@@ -138,5 +149,15 @@ A personalized movie recommendation system built as a Kaggle notebook. Computes 
 ---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&fontColor=c77dff" />
+<svg width="100%" height="100" viewBox="0 0 900 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#24243e"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#0f0c29"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="100" fill="url(#fg)"/>
+  <path d="M0,40 C200,90 400,10 600,60 C750,90 850,30 900,50 L900,0 L0,0 Z" fill="#1a1535" opacity="0.5"/>
+</svg>
 </div>
