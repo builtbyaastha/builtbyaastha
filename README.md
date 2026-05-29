@@ -1,22 +1,23 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=Building+AI+Systems;Developing+LLMs+and+AI+Agents;Exploring+Deep+Learning+Research;Learning+MLOps+and+Deployment" />
 
 <br>
 
-# Hi, I'm Aastha 👋
+# Hi, I'm Aastha Sinha 
 
-### Machine Learning • Deep Learning • Generative AI • AI Agents • MLOps
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=Building+AI+Systems;Developing+LLMs+and+AI+Agents;Exploring+Deep+Learning+Research;Learning+MLOps+and+Deployment" />
+
+### Machine Learning | Deep Learning | Generative AI | AI Agents | MLOps
 
 Building intelligent systems and exploring the frontiers of AI.
 
 <br>
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/aastha-sinha-1810rp/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:aasthasinha1109@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
