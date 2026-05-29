@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aastha%20Sinha&fontSize=60&fontColor=e0aaff&fontAlignY=38&desc=Student%20at%20NSUT%20%E2%80%A2%20AI%20%26%20ML%20Enthusiast%20%E2%80%A2%20Builder&descAlignY=58&descColor=c77dff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aastha+Sinha&fontSize=60&fontColor=e0aaff&fontAlignY=38&desc=Student+at+NSUT+%7C+AI+%26+ML+Enthusiast+%7C+Builder&descAlignY=58&descColor=c77dff&animation=fadeIn" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=Building+AI+Agents+%26+Agentic+Systems;Implementing+research+papers+from+scratch;LLMs+%7C+Deep+Learning+%7C+NLP+%7C+MLOps;Solving+real+problems+with+AI" alt="Typing SVG" /></a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aastha-sinha-1810rp/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://your-linkedin)
 
 </div>
 
