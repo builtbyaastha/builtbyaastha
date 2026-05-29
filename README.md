@@ -1,16 +1,16 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Aastha%20Sinha&fontSize=65&fontColor=e0aaff&fontAlignY=40&desc=Student%20at%20NSUT%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Builder&descAlignY=60&descColor=c77dff&animation=fadeIn&v=2)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aastha%20Sinha&fontSize=60&fontColor=e0aaff&fontAlignY=38&desc=Student%20at%20NSUT%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Builder&descAlignY=58&descColor=c77dff&animation=fadeIn)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=Building+AI+Agents+%26+Agentic+Systems;Implementing+Research+Papers+from+Scratch;LLMs+%7C+Deep+Learning+%7C+NLP+%7C+MLOps;Solving+Real+Problems+with+AI" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=Building+AI+Agents+%26+Agentic+Systems;Implementing+research+papers+from+scratch;LLMs+%7C+Deep+Learning+%7C+NLP+%7C+MLOps;Solving+real+problems+with+AI" alt="Typing SVG" /></a>
 
-<br/>
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://your-linkedin)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
 
 </div>
+
+---
 
 ---
 
