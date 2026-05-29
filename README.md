@@ -1,16 +1,18 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aastha%20Sinha&fontSize=60&fontColor=e0aaff&fontAlignY=38&desc=Student%20at%20NSUT%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Builder&descAlignY=58&descColor=c77dff&animation=fadeIn)
+<img src="https://raw.githubusercontent.com/your-username/your-username/main/header.svg" alt="Aastha Sinha" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=Building+AI+Agents+%26+Agentic+Systems;Implementing+research+papers+from+scratch;LLMs+%7C+Deep+Learning+%7C+NLP+%7C+MLOps;Solving+real+problems+with+AI" alt="Typing SVG" /></a>
+<br/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=Building+AI+Agents+%26+Agentic+Systems;Implementing+Research+Papers+from+Scratch;LLMs+%7C+Deep+Learning+%7C+NLP+%7C+MLOps;Solving+Real+Problems+with+AI" alt="Typing SVG" /></a>
 
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://your-linkedin)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
 
 </div>
-
----
 
 ---
 
@@ -99,14 +101,14 @@ A multi-agent AI system that automates the full research pipeline — web search
 ### 🧠 GPT-Style Language Model from Scratch
 > *PyTorch · Transformers · NLP · Paper Implementation*
 
-Implemented a decoder-only Transformer architecture entirely from scratch — custom BPE tokenizer, token embeddings, masked multi-head self-attention, feed-forward layers, and output head. Trained on TinyStories (3K vocab, 128-token context) using a fully custom training loop with forward pass, loss computation, and backpropagation. Implemented temperature-based sampling for inference and performed overfitting sanity checks for debugging.
+Implemented a decoder-only Transformer architecture entirely from scratch — custom BPE tokenizer, token embeddings, masked multi-head self-attention, feed-forward layers, and output head. Trained on TinyStories (3K vocab, 128-token context) using a fully custom training loop. Implemented temperature-based sampling and overfitting sanity checks for debugging.
 
 ---
 
 ### 🕵️ Fake Job Posting Detection
 > *Deep Learning · NLP · GloVe · Flask · Netlify*
 
-A system to classify job postings as genuine or fraudulent using NLP and deep learning. Uses GloVe word embeddings and an ANN-based binary classifier trained on a preprocessed job descriptions dataset. Includes a deployed interactive frontend (Bolt AI + Netlify) and an API-ready backend.
+A system to classify job postings as genuine or fraudulent using NLP and deep learning. Uses GloVe word embeddings and an ANN-based binary classifier. Includes a deployed interactive frontend (Bolt AI + Netlify) and an API-ready backend.
 
 ---
 
@@ -157,6 +159,6 @@ A personalized movie recommendation system built as a Kaggle notebook. Computes 
 
 ### 💬 *"Always building. Always learning."*
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
+<img src="https://raw.githubusercontent.com/your-username/your-username/main/footer.svg" alt="footer" width="100%"/>
 
 </div>
