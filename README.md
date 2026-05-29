@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/your-username/your-username/main/header.svg" alt="Aastha Sinha" width="100%"/>
+<img src="https://raw.githubusercontent.com/builtbyaastha/builtbyaastha/main/header.svg" alt="Aastha Sinha" width="100%"/>
 
 <br/>
 
